@@ -19,6 +19,7 @@ const Navbar = () => {
         <div className="flex items-center gap-6">
           <button onClick={() => scrollTo("about")} className="nav-link">About</button>
           <button onClick={() => scrollTo("skills")} className="nav-link">Skills</button>
+          <button onClick={() => scrollTo("projects")} className="nav-link">Projects</button>
           <button onClick={() => scrollTo("contact")} className="nav-link">Contact</button>
           <button
             onClick={() => setDark(!dark)}
