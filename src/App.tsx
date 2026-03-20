@@ -24,8 +24,4 @@ const App = () => (
   </QueryClientProvider>
 );
 
-<<<<<<< HEAD
 export default App;
-=======
-export default App;
->>>>>>> d2842c794d90c08f039ed9183926d491288ae107
