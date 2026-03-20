@@ -132,8 +132,4 @@
     @apply w-10 h-10 rounded-lg bg-secondary border border-border flex items-center justify-center
            text-muted-foreground transition-all duration-300 hover:border-primary hover:text-primary;
   }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> d2842c794d90c08f039ed9183926d491288ae107
