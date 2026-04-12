@@ -6,21 +6,21 @@ const projects = [
     description:
       "Developed a machine learning model to identify fraudulent financial transactions using classification algorithms like Random Forest and Decision Tree.",
     tech: ["Python", "Pandas", "Random Forest", "Matplotlib"],
-    github: "https://github.com/RishabhYadav7740",
+    github: "https://github.com/RishabhYadav7740/fraud-prediction-model",
   },
   {
     title: "Student Performance Prediction",
     description:
       "Built a predictive analytics model to estimate student academic performance based on study habits and academic history using regression and ML algorithms.",
     tech: ["Python", "Pandas", "NumPy", "Seaborn", "Matplotlib"],
-    github: "https://github.com/RishabhYadav7740",
+    github: "https://github.com/RishabhYadav7740/student-performance-prediction",
   },
   {
     title: "Vendor Performance Data Analytics",
     description:
       "Developed an interactive Power BI dashboard to monitor vendor performance, sales trends, and inventory efficiency with key business KPIs.",
     tech: ["Power BI", "Python", "Pandas", "SQL"],
-    github: "https://github.com/RishabhYadav7740",
+    github: "https://github.com/RishabhYadav7740/vendor-performance-analysis-dashboard",
   },
 ];
 
